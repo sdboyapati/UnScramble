@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UnScramble</string>
+
+
+    <string name="wordCountStats">%d of %d words</string>
+    <string name="scoreStats">Score: %d</string>
+
+
+    <string name="tempWord">scranbleun</string>
+    <string name="hint">Unscramble the words using all the letters.</string>
+    <string name="EnterYourWord">Enter your word</string>
+
+
+    <string name="Submit">Submit</string>
+    <string name="Skip">Skip</string>
+    <string name="wrongGuess">Wrong Guess</string>
+    <string name="Congrats">Congratulations!</string>
+    <string name="youScored">You scored: %d</string>
+    <string name="exit">Exit</string>
+    <string name="playAgain">Play Again</string>
+</resources>
